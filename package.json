@@ -44,7 +44,7 @@
     "source-map": "0.1.9",
     "xml2tss": "0.0.5",
     "moment": "2.17.1",
-    "node.extend": "1.0.10"
+    "node.extend": "1.1.7"
   },
   "license": "Apache-2.0",
   "bin": {
